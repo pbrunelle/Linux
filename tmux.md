@@ -9,7 +9,7 @@ tmux attach -t session_name         # attach to a session
 ## Commands
 
 ```
-C-b z       # zoom in/out the current pane (remembers the layout of all panes)
+C-b z       # fully expand current pane / go back to original pane layout
 ```
 
 To copy and paste: hold shift then standard copy and paste.
