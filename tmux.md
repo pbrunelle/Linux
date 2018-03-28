@@ -10,6 +10,7 @@ tmux attach -t session_name         # attach to a session
 
 ```
 C-b z       # fully expand current pane / go back to original pane layout
+C-b x       # close this pane
 ```
 
 To copy and paste: hold shift then standard copy and paste.
