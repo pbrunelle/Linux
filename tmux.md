@@ -16,11 +16,6 @@ To copy and paste: hold shift then standard copy and paste.
 
 ## References
 
-### General
 - https://www.tmuxcheatsheet.com/
 - https://danielmiessler.com/study/tmux/
 - http://man.openbsd.org/OpenBSD-current/man1/tmux.1
-
-### Specific questions
-- https://stackoverflow.com/questions/11832199/tmux-set-g-mouse-mode-on-doesnt-work
-- https://superuser.com/questions/689767/how-to-reload-tmux-config-file-which-has-defined-multiple-sessions
