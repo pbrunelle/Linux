@@ -2,7 +2,7 @@
 
 ```
 tmux new -s session_name            # create a session
-tmux ls                             # list existing sessions
+tmux ls                             # list sessions
 tmux attach -t session_name         # attach to a session
 ```
 
