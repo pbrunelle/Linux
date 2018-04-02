@@ -7,7 +7,10 @@ VALGRIND=~/mbig/bin/valgrind
 CALLGRIND_ANNOTATE=~/mbig/bin/callgrind_annotate
 ```
 
-Run callgrind (to find out which instructions are executed the most):
+### Calgrind
+
+Callgrind reports how many times a given line of code has been executed,
+and how many instructions have been performed in a function.
 
 ```
 $VALGRIND --tool=callgrind program program-options
@@ -21,7 +24,9 @@ $VALGRIND --tool=callgrind program program-options
 $CALLGRIND_ANNOTATE --show=Ir --inclusive=yes callgrind.out.PID a.cpp > a.callgrind.cpp
 ```
 
-Run memcheck (to find memory leaks; the stack traces that are very useful):
+### Memcheck
+
+memcheck can be used to find memory leaks; the stack traces that are very useful.
 
 ```
 $VALGRIND --leak-check=yes program program-options
@@ -29,8 +34,10 @@ $VALGRIND --leak-check=yes program program-options
 
 ## References
 
-## troubleshooting
+## Troubleshooting
 
 I've never managed to understand these messages:
 
-  ==26278== brk segment overflow in thread #1: can't grow to 0x480d000  
+```
+==26278== brk segment overflow in thread #1: can't grow to 0x480d000  
+```
