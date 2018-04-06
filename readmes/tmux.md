@@ -28,3 +28,4 @@ To copy and paste: hold shift then standard copy and paste.
 ### Troubleshooting
 
 - https://stackoverflow.com/questions/8483798/tmux-borders-displayed-as-x-q-instead-of-lines
+
