@@ -1,0 +1,2 @@
+- https://martinfowler.com/bliki/GivenWhenThen.html
+- https://solidsoft.wordpress.com/2017/05/16/importance-of-given-when-then-in-unit-tests-and-tdd/
