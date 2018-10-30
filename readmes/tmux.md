@@ -15,6 +15,7 @@ C-b z       # fully expand current pane / go back to original pane layout
 C-b x       # close this pane
 C-b "       # split pane horizontally
 C-b %       # split pane vertically
+C-b :detach # detach session (session still lives)
 ```
 
 To copy and paste: hold shift then standard copy and paste.
