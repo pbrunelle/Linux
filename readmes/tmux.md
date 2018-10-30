@@ -3,7 +3,7 @@
 ```
 tmux new -s session_name            # create a session
 tmux ls                             # list sessions
-tmux attach -t session_name         # attach to a session
+tmux a -t session_name              # attach to a session
 tmux rename-session -t old new      # rename session
 tmux kill-session -t sesion_name    # delete a session
 ```
