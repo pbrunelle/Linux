@@ -15,5 +15,4 @@ These functions can be non-linear w.r.t. the independent variables.
 ### Random Forests
 
 Bagged trees (bootstrap aggregated trees) are built by taking random subsets of the training data points.
-Random forests also take random subsets of training data points, but also take random subsets of the features
-("feature bagging"). [Wikipedia](https://en.wikipedia.org/wiki/Random_forest).
+In addition, random forests take random subsets of the features ("feature bagging"). [Wikipedia](https://en.wikipedia.org/wiki/Random_forest).
