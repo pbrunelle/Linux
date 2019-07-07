@@ -9,9 +9,9 @@ My notes.  Following Shilov's 1971 book (Dover translation).
 A set of objects <img src="https://latex.codecogs.com/svg.latex?\textbf{K}"> is a linear space over a field <img src="https://latex.codecogs.com/svg.latex?\text{K}"> if:
 
 <p align="center">
-<img src="https://latex.codecogs.com/svg.latex?x+y\in\textbf{K}\quad\forall{x,y}\in\textbf{K}\qquad\text{(addition)}">
+<img src="https://latex.codecogs.com/svg.latex?x+y\in\textbf{K}\qquad\forall{x,y}\in\textbf{K}\qquad\text{(addition)}">
 </p>
 
 <p align="center">
-<img src="https://latex.codecogs.com/svg.latex?{\lambda}x\in\textbf{K}\quad\forall{x}\in\textbf{K},\forall{\lambda}\in\text{K}\qquad\text{(multiplication%20by%20a%20scalar)}">
+<img src="https://latex.codecogs.com/svg.latex?{\lambda}x\in\textbf{K}\qquad\forall{x}\in\textbf{K},\forall{\lambda}\in\text{K}\qquad\text{(multiplication%20by%20a%20scalar)}">
 </p>
