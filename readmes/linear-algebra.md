@@ -21,8 +21,8 @@ Addition needs to satisfy 4 properties:
 |-|-|-|-|
 | 1 | <img src="https://latex.codecogs.com/svg.latex?(x+y)+z=x+(y+z)"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x,y,z}\in\textbf{K}"> | addition is associative |
 | 2 | <img src="https://latex.codecogs.com/svg.latex?x+y=y+x"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x,y}\in\textbf{K}"> | addition is commutative |
-| 3| <img src="https://latex.codecogs.com/svg.latex?{\exists}0\in\textbf{K}}{\arrowvert}x+0=x"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x}\in\textbf{K}"> | existence of 0 vector |
-| 4 | <img src="https://latex.codecogs.com/svg.latex?\exists{y}\in\textbf{K}}{\arrowvert}x+y=0"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x}\in\textbf{K}"> | negative element |
+| 3| <img src="https://latex.codecogs.com/svg.latex?{\exists}0\in\textbf{K}}{\vert}x+0=x"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x}\in\textbf{K}"> | existence of 0 vector |
+| 4 | <img src="https://latex.codecogs.com/svg.latex?\exists{y}\in\textbf{K}}{\vert}x+y=0"> | <img src="https://latex.codecogs.com/svg.latex?\forall{x}\in\textbf{K}"> | negative element |
 
 Multiplication by a scalar needs to satisfy 4 properties:
 
